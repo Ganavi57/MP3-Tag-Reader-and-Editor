@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="MP3 Tag Reader & Editor Banner" width="100%">
+</p>
 # 🎵 MP3 Tag Reader & Editor in C
 
 A C-based application that reads, displays, and edits **ID3v2 metadata tags** stored in MP3 files.
